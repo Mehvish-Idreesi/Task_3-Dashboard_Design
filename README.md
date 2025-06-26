@@ -1,9 +1,9 @@
 # Task_3_Dashboard_Design   
-Elevate Labs Data Analyst Internship  
+Elevate Labs Data Analyst Internship
 <br>  
-Date: June 26, 2025  
+Date: June 26, 2025
 <br>  
-Author: Mehvish Idreesi  
+Author: Mehvish Idreesi
 <br>  
 
 ## 📝 Objective  
